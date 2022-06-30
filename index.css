@@ -1,0 +1,58 @@
+body {
+    background: #1F2937;
+    color: #FFFFFF;
+    font-family: 'Karla', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    padding: 30px;
+
+}
+
+#colored-heading {
+    color: #4ADF86;
+}
+
+#insecure {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #D5D4D8;
+}
+
+#generate-btn {
+    background-color: #10B981;
+    border: none;
+    padding: 10px 18px 10px 18px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-top: 37px;
+}
+
+.pass-btn {
+    background: #273549;
+    border-radius: 6px;
+    border: none;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    color: #4ADF86;
+    padding: 9px 25px 9px 25px;
+    margin-right: 25px;
+    width: 211px;
+}
+
+#border {
+    border: 1px solid #2F3E53;
+    margin: 40px auto;
+}
+
+#pass-btns {
+    display: flex;
+    justify-content: start;
+}
